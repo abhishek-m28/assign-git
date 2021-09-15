@@ -1,3 +1,4 @@
+
 1. What is a gitignore file and what should it include for a Java project?
 Answer:
 .gitignore – Ignored files are tracked in this file. Ignored files generally include the machine generated files that can be derived from the
